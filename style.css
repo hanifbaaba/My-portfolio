@@ -1,0 +1,95 @@
+body,
+h1,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #fff;
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.project {
+  margin-bottom: 3px;
+}
+
+.project img {
+  max-width: 100%;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #333;
+  color: #fff;
+}
+
+a:hover {
+  background-color: gray;
+}
+
+#RPS {
+  width: 400px;
+  height: 400px;
+}
+
+#to-do-list {
+  width: 400px;
+  height: 400px;
+}
+
+#weatherImg {
+  width: 400px;
+  height: 400px;
+}
+
+a {
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
+}
+
+#email {
+  color: #333;
+}
+
+#linkedin {
+  color: #333;
+}
+
+#github {
+  color: #333;
+}
